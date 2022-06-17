@@ -1,0 +1,17 @@
+
+.titulos{
+    color: rgb(224, 211, 28);
+    background-color: rgb(187, 248, 248);
+    padding: 3px;
+    margin-block: 15px;
+    
+}
+
+* {
+    background-color: blanchedalmond;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
